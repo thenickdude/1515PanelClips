@@ -3,7 +3,7 @@
 
 Check out the originals here.  Your 2020 based enclosed printer will thank you:
 
-https://github.com/Annex-Engineering/Other_Printer_Mods/tree/master/All_Printers/Annex_Panel_2020_Clips_and_Hinges
+https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/tree/main/Printers/All_Printers/annex_dev-Panel_2020_Clips_and_Hinges
 
 Here is a look at the front and rear of the scaled down panel clips for 1515. 
 ![](/Images/clips_front.png)
